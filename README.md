@@ -1,4 +1,3 @@
-# SmartStock - AI-Powered Inventory Optimization 🚀
 # 📦 SmartStock: AI-Powered Inventory Optimization and Demand Forecasting
 
 ## 🎯 **Project Overview**
