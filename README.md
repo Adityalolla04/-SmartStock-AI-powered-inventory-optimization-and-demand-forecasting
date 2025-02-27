@@ -4,6 +4,8 @@
 
 **SmartStock** is an AI-powered inventory management solution designed to optimize supply chain operations through accurate demand forecasting, dynamic inventory optimization, and automated defect detection. This end-to-end system integrates machine learning and computer vision to minimize costs, improve resource allocation, and enhance decision-making.
 
+![Dashboard Screenshot](app/Images/Dashboard.png)
+
 ---
 
 ## 🔍 **Project Goals**
@@ -93,6 +95,30 @@
 - 🤖 **TensorFlow & Keras**: Building and training LSTM and CNN models.
 - 📈 **Statsmodels**: Time-series forecasting using ARIMA.
 - 💾 **Pandas & NumPy**: Data manipulation and analysis.
+- 🖥 **Streamlit & Plotly**: Interactive dashboards and visualization.
+- ☁️ **Google Cloud & Vertex AI**: Deployment and cloud processing.
+
+---
+
+## 📌 **Key Outcomes and Impact**
+
+The prototype demonstrates a comprehensive AI-driven approach to inventory optimization. By integrating demand forecasting, inventory management, and defect detection, SmartStock empowers businesses to:
+
+### 1️⃣ **High Forecast Accuracy with Optimized Inventory**
+- If **demand forecasting is highly accurate** and **inventory is optimized**, businesses can reduce holding costs while maintaining sufficient stock levels.
+- 🚀 Outcome: Lower wastage and improved supply chain efficiency.
+
+### 2️⃣ **High Defect Detection Accuracy with Low Defect Rates**
+- If **defect detection is highly accurate** and **defective parts are minimal**, businesses experience increased sales and fewer customer complaints.
+- ✅ Outcome: Higher product quality, leading to better customer satisfaction.
+
+### 3️⃣ **High Defect Detection with High Defect Rates**
+- If **defect detection is accurate** but **defective parts are frequent**, this highlights a manufacturing issue that needs immediate attention.
+- 🔍 Outcome: Helps companies identify faulty suppliers or quality issues quickly.
+
+### 4️⃣ **Low Forecast Accuracy with Poor Inventory Management**
+- If **forecasting accuracy is low** and **inventory is mismanaged**, businesses face stockouts or excess inventory.
+- ⚠️ Outcome: Increased costs due to poor supply chain planning, requiring urgent model improvements.
 
 ---
 
@@ -102,6 +128,7 @@
 2. 📊 Build interactive dashboards for real-time monitoring.
 3. 🚀 Deploy the solution on a cloud platform for scalability.
 4. 🔒 Integrate alerts for low inventory and high defect rates.
+5. 📡 Implement real-time data streaming from IoT-enabled inventory systems.
 
 ---
 
@@ -112,16 +139,9 @@
 
 ---
 
-## 🏆 **Outcome and Impact**
+## 🏆 **Final Thoughts**
 
-The prototype demonstrates a comprehensive AI-driven approach to inventory optimization. By integrating demand forecasting, inventory management, and defect detection, SmartStock empowers businesses to:
+SmartStock is an innovative AI-powered inventory optimization solution that integrates cutting-edge machine learning and computer vision techniques to drive smarter supply chain decisions. With future enhancements, the platform aims to revolutionize inventory management and improve overall business efficiency.
 
-- ✅ Reduce inventory costs.
-- 📊 Improve forecasting accuracy.
-- 🚀 Streamline supply chain operations.
-- 🎯 Enhance product quality assurance.
-
----
-
-**Let's revolutionize inventory management through AI-powered innovation!** 🚀
+**Let’s build a smarter future with AI-driven inventory optimization!** 🚀
 
