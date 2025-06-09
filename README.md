@@ -132,13 +132,6 @@ The prototype demonstrates a comprehensive AI-driven approach to inventory optim
 
 ---
 
-## 👥 **Team Contributions**
-
-- **Aditya Srivatsav:** Lead Data Scientist and Machine Learning Model Developer.
-- **Team Members:** Data preprocessing, model evaluation, and business strategy alignment.
-
----
-
 ## 🏆 **Final Thoughts**
 
 SmartStock is an innovative AI-powered inventory optimization solution that integrates cutting-edge machine learning and computer vision techniques to drive smarter supply chain decisions. With future enhancements, the platform aims to revolutionize inventory management and improve overall business efficiency.
